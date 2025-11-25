@@ -1,3 +1,3 @@
 # .github
 Hello world!
-fdjfd;o;ghfs'ih
+здесь был редиска
