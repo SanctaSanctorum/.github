@@ -1,3 +1,2 @@
 # .github
-Hello world!
-здесь был редиска
+test git
